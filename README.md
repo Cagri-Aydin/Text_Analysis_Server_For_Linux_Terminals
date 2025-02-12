@@ -1,0 +1,1 @@
+# Text_Analysis_Server_For_Linux_Terminals
